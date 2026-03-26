@@ -1,0 +1,49 @@
+# ⚙️ Code Instructions – Speech Emotion Recognition
+
+## 🚀 Running the Application
+
+**1. Install dependencies:**
+pip install -r requirements.txt
+
+**2. Run the application:**
+python FinalGUI.py
+
+**3. Steps:**
+
+- Load trained model from resources/model/ 
+- Load an audio file 
+- Use Classify to predict emotion 
+- Use Spectrogram to visualize audio  
+- Use Reset to test new inputs
+
+---
+
+## Training the Model
+Using Jupyter Notebook / Colab
+
+**1. Install dependencies:**
+pip install -r requirements.txt
+
+**2. Open**
+SER_Model_Implementation.ipynb
+
+**3. Download datasets and set paths**
+
+**4. Run all cells:**
+
+- Data preprocessing  
+- Feature extraction
+- Model training
+- Evaluation  
+
+---
+
+## 📂 Key Files
+
+- data_prepare.py → preprocessing & feature extraction 
+- CNNModel.py → model architecture   
+- Main.py → training pipeline 
+- Inference.py → prediction 
+- FinalGUI.py → desktop application  
+
+---
