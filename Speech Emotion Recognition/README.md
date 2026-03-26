@@ -8,7 +8,7 @@ This project focuses on automatic emotion recognition from speech using deep lea
 
 "Speech Emotion Recognition Using Deep Learning" was a topic I proposed and later co-authored as a published paper in *Lecture Notes in Computer Science (SGAI 2023)*.
 
-This repository contains my implementation of the system, including model development, preprocessing, and application-level components.
+This repository contains the implementation of the complete system developed as part of a collaborative MSc group project, including data preprocessing, model development, and application-level components, with clearly defined individual contributions.
 
 ---
 
