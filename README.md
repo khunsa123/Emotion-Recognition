@@ -19,13 +19,13 @@ This repository contains the code and experiments for a CNN-based speech emotion
 Emotion-Recognition/
 │
 ├── Speech Emotion Recognition/
-│   ├── feature_extraction.ipynb       # MFCC, ZCR, RMS, spectral feature extraction
-│   ├── data_augmentation.ipynb        # Noise injection, pitch shift, time-stretch
-│   ├── model_training.ipynb           # CNN architecture, training loop, cross-validation
-│   ├── evaluation.ipynb               # Accuracy, confusion matrix, per-class metrics
-│   └── cross_corpus_analysis.ipynb    # Cross-corpus generalisation evaluation
+│   ├── feature_extraction.ipynb         # MFCC, ZCR, RMS, spectral feature extraction
+│   ├── data_augmentation.ipynb          # Noise injection, pitch shift, time-stretch
+│   ├── model_training.ipynb             # CNN architecture, training loop, cross-validation
+│   ├── evaluation.ipynb                 # Accuracy, confusion matrix, per-class metrics
+│   ├── cross_corpus_analysis.ipynb      # Cross-corpus generalisation evaluation
+│   └── figures/                         # Visualisations, result plots, and diagrams
 │
-├── figures/                           # Visualisations and result plots
 └── README.md
 ```
 
